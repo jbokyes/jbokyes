@@ -29,7 +29,7 @@ At the moment, most of my work is done thanks to ISDI Coders Bootcamp in Madrid 
 <br />
 
 <h2> 🤔 Why I started coding  </h2>
-My coding journey started with my interest of doing more than just finance. While I was happy at my job as a finance analyst, I always thought I could learn more. As my interest in different tools grew, I decided to take a job as a BI Consultant in Barcelona. This meant that I could work with what I was learning on my free time: SQL, Excel, Power tools, Python, etc. Later on I realized what i enjoyed the most was building while coding, so I took a look at Web Dev and instantly loved it. <em>A few moments later</em>, I decided to take the leap 🫣.
+My coding journey started with my interest of doing more than just finance. While I was happy at my job as a finance analyst, I always thought I could learn more. As my interest in different tools grew, I decided to take a job as a BI Consultant in Barcelona. This meant that I could work with what I was learning on my free time: SQL, Excel, Power tools, Python, etc. Later on I realized what I enjoyed the most was building while coding, so I took a look at Web Dev and instantly loved it. <em>A few moments later</em>, I decided to take the leap 🫣.
 <br />
 <br />
 [linkedin]: https://www.linkedin.com/in/joaquinbezanilla/
