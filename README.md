@@ -17,7 +17,7 @@ At the moment, most of my work is done thanks to ISDI Coders Bootcamp in Madrid 
 <img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 
 <br />
-
+<br />
 
 ## 🧰 Languages and tools i really want to learn/work with in the future: 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
@@ -26,9 +26,10 @@ At the moment, most of my work is done thanks to ISDI Coders Bootcamp in Madrid 
 <img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <br />
-
+<br />
 
 <h2> 🤔 Why i started coding  </h2>
 My coding journey started with my interest of doing more than just finance. While i was happy at my job as a finance analyst, i always thought i could learn more. As my interest in different tools grew, i decided to take a job as a BI Consultant in Barcelona. This meant that i could work with what i was learning on my free time: SQL, Excel, Power tools, Python, etc. Later on i realized what i enjoyed the most was building while coding, so i took a look at Web Dev and instantly loved it, so i decided to take the leap 🫣.
+<br />
 <br />
 [linkedin]: https://www.linkedin.com/in/joaquinbezanilla/
