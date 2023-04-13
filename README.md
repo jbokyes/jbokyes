@@ -19,7 +19,7 @@ At the moment, most of my work is done thanks to ISDI Coders Bootcamp in Madrid 
 <br />
 <br />
 
-## 🧰 Languages and tools I really want to learn/work with in the future: 
+## ⏩ Languages and tools I really want to learn/work with in the future: 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 <img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
