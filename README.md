@@ -4,7 +4,7 @@
 
 At the moment, most of my work is done thanks to ISDI Coders Bootcamp in Madrid (Beginning of 2023). From now on, I'll be making use of what I've learnt and what I really want to learn to create new projects. The thing I love the most about web development is the fact we can do anything as long as we work for it.
 
-I'm currently enjoying working and trying new things with the T3 stack (Next.js, Typescript, tRPC, Prisma, Tailwind CSS and a few others like NextAuth.js and Clerk.
+I'm currently enjoying working and trying new things with the T3 stack (Next.js, Typescript, tRPC, Prisma, Tailwind CSS and a few others like NextAuth.js, Clerk and Zod).
 
 ## 🧰 Languages and tools I've learnt and plan on using profesionally: 
 
